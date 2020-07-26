@@ -1,0 +1,2 @@
+This file is to practice git diff command
+Nothing else
